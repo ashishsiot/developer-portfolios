@@ -17,6 +17,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## A
 
+- [Ashish Bhoir](https://bashish388.wixsite.com/ashish)
 - [Aaron Dunphy](https://aarondunphy.com)
 - [Aashutosh Rathi](https://aashutosh.dev)
 - [Abdelouahed Medjoudja](https://geekabdelouahed.github.io/flutter-web-portfolio)
